@@ -1,0 +1,46 @@
+{
+  "version": 2,
+  "dgSpecHash": "eFTZ61Y64iGy5HBi1XmDfqhXrgXMKRWSlz/HIqMQ9Jovg9xiWe7qwW48ZVq8CAwPQdIPzF4j5MnMb/c/jyO8Ig==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\бьюбт\\source\\repos\\Excel\\Excel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\бьюбт\\.nuget\\packages\\documentformat.openxml\\2.11.0\\documentformat.openxml.2.11.0.nupkg.sha512",
+    "C:\\Users\\бьюбт\\.nuget\\packages\\extended.wpf.toolkit\\3.8.1\\extended.wpf.toolkit.3.8.1.nupkg.sha512",
+    "C:\\Users\\бьюбт\\.nuget\\packages\\microsoft.office.excel\\14.0.4760.1000\\microsoft.office.excel.14.0.4760.1000.nupkg.sha512",
+    "C:\\Users\\бьюбт\\.nuget\\packages\\microsoft.office.interop.excel\\15.0.4795.1000\\microsoft.office.interop.excel.15.0.4795.1000.nupkg.sha512",
+    "C:\\Users\\бьюбт\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512",
+    "C:\\Users\\бьюбт\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Пакет \"Extended.Wpf.Toolkit 3.8.1\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\", а не целевой платформы проекта \".NETCoreApp,Version=v3.1\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "libraryId": "Extended.Wpf.Toolkit",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Пакет \"Microsoft.Office.Excel 14.0.4760.1000\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\", а не целевой платформы проекта \".NETCoreApp,Version=v3.1\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "libraryId": "Microsoft.Office.Excel",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Пакет \"Microsoft.Office.Interop.Excel 15.0.4795.1000\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\", а не целевой платформы проекта \".NETCoreApp,Version=v3.1\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "libraryId": "Microsoft.Office.Interop.Excel",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}

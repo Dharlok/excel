@@ -1,0 +1,12 @@
+C:\Users\бьюбт\source\repos\Excel\bin\Debug\netcoreapp3.1\Excel.exe
+C:\Users\бьюбт\source\repos\Excel\obj\Debug\netcoreapp3.1\Excel.csprojAssemblyReference.cache
+C:\Users\бьюбт\source\repos\Excel\obj\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\бьюбт\source\repos\Excel\obj\Debug\netcoreapp3.1\Excel.csproj.ResolveComReference.cache
+C:\Users\бьюбт\source\repos\Excel\obj\Debug\netcoreapp3.1\Excel.AssemblyInfoInputs.cache
+C:\Users\бьюбт\source\repos\Excel\obj\Debug\netcoreapp3.1\Excel.AssemblyInfo.cs
+C:\Users\бьюбт\source\repos\Excel\bin\Debug\netcoreapp3.1\Microsoft.Office.Interop.Excel.dll
+C:\Users\бьюбт\source\repos\Excel\obj\Debug\netcoreapp3.1\Interop.LCC11.dll
+C:\Users\бьюбт\source\repos\Excel\obj\Debug\netcoreapp3.1\Excel.csproj.CopyComplete
+C:\Users\бьюбт\source\repos\Excel\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\бьюбт\source\repos\Excel\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+C:\Users\бьюбт\source\repos\Excel\bin\Debug\netcoreapp3.1\Office.dll
